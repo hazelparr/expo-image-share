@@ -4,6 +4,8 @@ I have made a simple app in order to test and try out the in app review function
 
 # iOS
 - Relatively easy to setup, just add the `StoreReview.requestReview()` to an app feature where you think it's sutiable. A modal will pop up to prompt for a review
+
+
 ![](AppleAppReview.gif)
   
 # Android
