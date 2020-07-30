@@ -2,6 +2,8 @@
 
 I have made a simple app in order to test and try out the in app review function for Andorid and iOS.
 
+Link to expo documentation: https://docs.expo.io/versions/latest/sdk/storereview/
+
 # iOS
 - Relatively easy to setup, just add the `StoreReview.requestReview()` to an app feature where you think it's sutiable. A modal will pop up to prompt for a review
 
