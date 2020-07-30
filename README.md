@@ -9,6 +9,8 @@ I have made a simple app in order to test and try out the in app review function
 ![](AppleAppReview.gif)
   
 # Android
-- Also simple to setup but needs a playstore url on the app.json in addition in on order for the code to work. Here, there is no prompt or UI at all. 
+- Also simple to setup but needs a playstore url in the app.json file in addition in on order for the code to work. Here, there is no prompt or UI at all. 
 It will immediately go to Google Play Store leaving the app which doesn't make it an in app review at all. Expo doesn't recommend
 calling `StoreReview.requestReview()` in a button so this won't be a good workaround.
+
+![](AndroidAppReview.gif)
